@@ -23,6 +23,20 @@
 
 有关arduino控制舵机的代码在文件[arduino_codes.ino](.\arduino_codes\arduino_codes.ino)中。
 
+- 安装环境
+
+1. 安装open cv
+
+    ```
+    pip install opencv-python
+    ```
+    
+2. 安装PySerial
+
+    ```
+    pip install serial
+    ```
+    
 - 硬件部分
 
 因预算有限，购买的硬件均已能够实现基本功能为标准。使用到的硬件有：
